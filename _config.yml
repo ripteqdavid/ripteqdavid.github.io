@@ -1,15 +1,15 @@
-title:              Ripteq
-email:              david@ripteq.com.au
-description:        Ripteq Blogging Site
-author:             Ripteq
+title:              Garage Handplanes
+email:              info@garagehandplanes.com.au
+description:        Garage Handplanes
+author:             David Archer
 baseurl:            ""
 url:                "https://ripteqdavid.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:   davejarcher
+github_username:    ripteqdavid
+facebook_username:  garagehandplanes
+instagram_username: garagehandplanes 
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
@@ -23,3 +23,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+highlighter: rouge
